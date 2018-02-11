@@ -1,7 +1,7 @@
 # Linux
 
 Install Android Studio
-Installing Java
+hello:Installing Java
 
 sudo add-apt-repository ppa:webupd8team/java
 
