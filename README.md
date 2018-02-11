@@ -36,3 +36,8 @@ Categories=Development;IDE;
 Terminal=false
 StartupNotify=true
 StartupWMClass=android-studio
+
+controller: no annotation  
+action: @Transactional(readOnly = true)  
+service: def transactional = false (method saves a new book)  
+behaviour: ajax changes saved and book inserted
