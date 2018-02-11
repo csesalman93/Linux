@@ -46,7 +46,7 @@ StartupNotify=true
 
 StartupWMClass=android-studio
 
-#Install tlp for battery life
+# Install tlp for battery life
 
 sudo add-apt-repository ppa:linrunner/tlp
 
